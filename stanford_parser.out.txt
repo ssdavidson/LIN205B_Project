@@ -1,0 +1,528 @@
+(ROOT
+  (sentence
+    (sn
+      (spec (di0000 Unas))
+      (grup.nom (nc0p000 vacaciones)
+        (s.a
+          (grup.a (aq0000 perfectas)))
+        (sp
+          (prep (sp000 para))
+          (sn
+            (grup.nom (pp000000 mí))))))
+    (grup.verb (vsip000 es))
+    (sp
+      (prep (sp000 en))
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 verano))))
+    (sp
+      (prep (sp000 en))
+      (sn
+        (spec (di0000 una))
+        (grup.nom
+          (s.a
+            (grup.a (aq0000 bonita)))
+          (nc0s000 playa)
+          (sp
+            (prep (sp000 durante))
+            (sn
+              (spec (di0000 una))
+              (grup.nom (nc0s000 semana)))))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (S
+      (sadv
+        (grup.adv (rg Probablemente)))
+      (grup.verb (vmsp000 vaya))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (grup.nom (np00000 Hawai))))
+      (S
+        (conj (cs porque))
+        (sn
+          (spec (da0000 las))
+          (grup.nom (nc0p000 playas)))
+        (sn
+          (grup.nom (pp000000 se)))
+        (grup.verb (vmip000 ven))
+        (s.a
+          (grup.a (aq0000 bonitas)))))
+    (conj (cc y))
+    (S
+      (sn
+        (spec (da0000 el))
+        (grup.nom (nc0s000 clima)))
+      (sadv
+        (grup.adv (rg siempre)))
+      (grup.verb (vsip000 es))
+      (S
+        (participi (aq0000 cálido))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (grup.verb (vmis000 Iré))
+    (sp
+      (prep (sp000 con))
+      (sn
+        (spec (dp0000 mi))
+        (grup.nom
+          (grup.nom (nc0s000 familia))
+          (conj (cc y))
+          (grup.nom (nc0p000 amigos)))))
+    (sn
+      (grup.nom
+        (sadv
+          (grup.adv (rg cerca)))
+        (pp000000 nos)))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (sn
+      (grup.nom (pd000000 Este)))
+    (grup.verb (vsif000 será))
+    (sn
+      (spec (di0000 un))
+      (grup.nom (nc0s000 tiempo)))
+    (sp
+      (prep (sp000 para))
+      (S
+        (conj (cs que))
+        (sn
+          (grup.nom (pi000000 todos)))
+        (grup.verb (vmsp000 podamos)
+          (infinitiu (vmn0000 relajar))
+          (sn
+            (grup.nom (pp000000 nos))))
+        (S
+          (S (fc ,)
+            (infinitiu (vmn0000 divertir))
+            (sn
+              (grup.nom (pp000000 nos))))
+          (conj (cc y))
+          (S
+            (infinitiu (vmn0000 liberar))
+            (sn
+              (grup.nom (pp000000 nos)))
+            (sp
+              (prep (sp000 de))
+              (sn
+                (spec (da0000 el))
+                (grup.nom (nc0s000 estrés))))))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (S
+      (S
+        (sn
+          (grup.nom (pi000000 Todos)))
+        (sn
+          (grup.nom (pp000000 nos)))
+        (grup.verb (vmif000 encontraremos))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (grup.nom (np00000 LAX)))))
+      (conj (cc y))
+      (S
+        (grup.verb (vmif000 llegaremos))
+        (sp
+          (prep (sp000 a))
+          (sn
+            (grup.nom (np00000 Hawaii))))
+        (sp
+          (prep (sp000 en))
+          (sn
+            (grup.nom (nc0s000 avión))))))
+    (conj (cc y))
+    (S
+      (sn
+        (grup.nom (pi000000 todos)))
+      (sn
+        (grup.nom (pp000000 nos)))
+      (grup.verb (vmm0000 sentaremos))
+      (sadv
+        (grup.adv (rg cómodamente))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (da0000 El))
+        (grup.nom (nc0s000 avión)))
+      (grup.verb (vmif000 ofrecerá))
+      (sn
+        (grup.nom (nc0s000 comida)
+          (s.a
+            (grup.a (aq0000 sabrosa))))))
+    (conj (cc y))
+    (S
+      (sn
+        (grup.nom (pp000000 la)))
+      (grup.verb (vmm0000 disfrutaremos)))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 avión)))
+    (sadv
+      (grup.adv (rg también)))
+    (grup.verb (vmif000 ofrecerá))
+    (sadv
+      (sn
+        (grup.nom (nc0p000 películas)))
+      (sadv
+        (grup.adv (rg gratis)
+          (sp
+            (prep (sp000 para))
+            (S
+              (conj (cs que))
+              (grup.verb (vmsp000 podamos)
+                (infinitiu (vmn0000 entretener))
+                (sn
+                  (grup.nom (pp000000 nos)))))))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (S
+      (grup.verb (vmm0000 Llegaremos))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (grup.nom (np00000 Hawaii))))
+      (sadv
+        (grup.adv (rg temprano)
+          (sp
+            (prep (sp000 en))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 mañana)
+                (sp
+                  (prep (sp000 para))
+                  (S
+                    (relatiu (pr000000 que))
+                    (grup.verb (vmsp000 podamos)
+                      (infinitiu (vmn0000 disfrutar)))
+                    (sp
+                      (prep (sp000 de))
+                      (sn
+                        (spec (dp0000 nuestro))
+                        (grup.nom
+                          (s.a
+                            (grup.a (ao0000 primer)))
+                          (nc0s000 día))))))))))))
+    (sadv
+      (grup.adv (rg allí)))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (S
+      (conj
+        (grup.cs (rg Ya) (pr000000 que)))
+      (grup.verb (vmm0000 lleguemos))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (grup.nom (np00000 Hawaii)))))
+    (fc ,)
+    (S
+      (grup.verb (vmif000 iremos))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (spec (di0000 un))
+          (grup.nom (nc0s000 hotel)
+            (sp
+              (prep (sp000 de))
+              (sn
+                (grup.nom
+                  (s.a
+                    (grup.a (aq0000 alta)))
+                  (nc0s000 calificación))))))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 El))
+      (grup.nom (nc0s000 hotel)))
+    (grup.verb (vmif000 tendrá))
+    (sn
+      (spec (nc0p000 cuartos) (sp000 para))
+      (grup.nom (pi000000 todos)
+        (sp
+          (prep (sp000 para))
+          (sn
+            (grup.nom
+              (S
+                (relatiu (pr000000 que))
+                (sn
+                  (grup.nom (pi000000 nadie)))
+                (grup.verb (vmsp000 tenga) (cs que)
+                  (infinitiu (vmn0000 compartir)))))))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (sadv
+      (grup.adv (rg También)))
+    (grup.verb (vsif000 será))
+    (sadv
+      (grup.adv (rg cerca)))
+    (sp
+      (prep (sp000 de))
+      (sn
+        (spec (da0000 la))
+        (grup.nom (nc0s000 playa))))
+    (sp
+      (prep (sp000 para))
+      (sn
+        (grup.nom
+          (S
+            (relatiu (pr000000 que))
+            (grup.verb (vmsp000 podamos)
+              (infinitiu (vmn0000 ir)))
+            (S
+              (conj (cs cuando))
+              (grup.verb (vmm0000 queramos)))))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (S
+      (sadv
+        (grup.adv (rg También)))
+      (grup.verb (vmip000 podemos)
+        (infinitiu (vmn0000 ir)))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 piscina))))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 el))
+          (grup.nom (nc0s000 hotel)))
+        (fc ,)))
+    (conj (cc pero))
+    (S
+      (grup.verb (vmip000 creo))
+      (S
+        (conj (cs que))
+        (S
+          (infinitiu (vmn0000 ir))
+          (sp
+            (prep (sp000 a))
+            (sn
+              (spec (da0000 la))
+              (grup.nom (nc0s000 playa)))))
+        (grup.verb (vsip000 es))
+        (s.a
+          (spec (rg más))
+          (grup.a (aq0000 divertido)))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (S
+      (grup.verb (vmip000 Espero))
+      (S
+        (conj (cs que))
+        (sn
+          (spec (da0000 los))
+          (grup.nom (nc0p000 hoteles)))
+        (grup.verb (vmm0000 ofrezcan))
+        (s.a
+          (s.a
+            (grup.a (aq0000 masajes)))
+          (S
+            (conj (cs porque))
+            (sn
+              (grup.nom (pd000000 eso)))))))
+    (sadv
+      (grup.adv (rg también)))
+    (grup.verb (vsic000 sería))
+    (s.a
+      (grup.a (aq0000 relajante)))
+    (S
+      (sn
+        (grup.nom (pi000000 todos)))
+      (sn
+        (grup.nom (pp000000 lo)))
+      (grup.verb (vmif000 disfrutarán)))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (S
+      (sn
+        (grup.nom (pp000000 Yo)))
+      (grup.verb (vsmp000 sé))
+      (S
+        (conj (cs que))
+        (sn
+          (grup.nom (pi000000 todos)))
+        (grup.verb (vmip000 van) (sp000 a)
+          (infinitiu (vmn0000 querer)))
+        (sp
+          (prep (sp000 a))
+          (S
+            (infinitiu (vmn0000 visitar))
+            (sn
+              (spec (da0000 los))
+              (grup.nom (nc0p000 volcanes))))))
+      (fc ,))
+    (conj
+      (grup.cs (rg así) (pr000000 que)))
+    (S
+      (sadv
+        (grup.adv (rg también)))
+      (grup.verb (vmip000 podemos)
+        (infinitiu (vmn0000 hacer)))
+      (sn
+        (grup.nom (pd000000 eso))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (S
+      (sn
+        (spec (dp0000 Mi))
+        (grup.nom
+          (grup.nom (nc0s000 familia))
+          (conj (cc y))
+          (grup.nom (nc0p000 amigos))))
+      (grup.verb (vsip000 son))
+      (s.a
+        (spec (rg muy))
+        (grup.a (aq0000 atléticos))))
+    (fc ,)
+    (S
+      (conj
+        (grup.cs (rg así) (pr000000 que)))
+      (S
+        (sadv
+          (grup.adv (rg también)))
+        (grup.verb (vmip000 podemos)
+          (infinitiu (vmn0000 hacer)))
+        (sn
+          (spec (di0000 una))
+          (grup.nom (nc0s000 caminata))))
+      (conj (cc y))
+      (S
+        (infinitiu (vmn0000 disfrutar))
+        (sp
+          (prep (sp000 de))
+          (sn
+            (spec (da0000 la))
+            (grup.nom (nc0s000 naturaleza)
+              (S
+                (relatiu (pr000000 que))
+                (sn
+                  (grup.nom (pp000000 nos)))
+                (grup.verb (vmip000 rodea))))))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (sadv
+      (grup.adv (rg También)))
+    (morfema.verbal (p0000000 nos))
+    (grup.verb (vmip000 gusta))
+    (S
+      (infinitiu (vmn0000 comer)))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (S
+      (grup.verb (vmif000 Iremos))
+      (sp
+        (prep (sp000 a))
+        (sn
+          (spec (di0000 un))
+          (grup.nom (nc0s000 restaurante)
+            (S
+              (sadv
+                (grup.adv (rg bien)))
+              (participi (aq0000 calificado)))))))
+    (conj (cc y))
+    (S
+      (grup.verb (vmm0000 disfrutaremos))
+      (sp
+        (prep (sp000 de))
+        (sn
+          (spec (da0000 la))
+          (grup.nom (nc0s000 comida)
+            (S
+              (relatiu (pr000000 que))
+              (grup.verb (vmip000 tienen) (sp000 para)
+                (infinitiu (vmn0000 ofrecer))))))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (sn
+      (spec (da0000 Los))
+      (grup.nom
+        (s.a
+          (grup.a (aq0000 dole)))
+        (nc0p000 whips)))
+    (grup.verb (vsip000 son))
+    (s.a
+      (grup.a (aq0000 populares)))
+    (sp
+      (prep (sp000 en))
+      (sn
+        (grup.nom (np00000 Hawai))))
+    (S (fc ,)
+      (conj
+        (grup.cs (rg así) (pr000000 que)))
+      (sadv
+        (grup.adv (rg también)))
+      (grup.verb (vmm0000 comeremos))
+      (sn
+        (grup.nom (pi000000 uno)
+          (sp
+            (prep (sp000 de))
+            (sn
+              (grup.nom (pd000000 esos)))))))
+    (fp .)))
+
+(ROOT
+  (sentence
+    (sadv
+      (grup.adv
+        (sp
+          (prep (sp000 En))
+          (sn
+            (grup.nom
+              (s.a
+                (grup.a (aq0000 general)))))))
+      (fc ,))
+    (grup.verb (vmip000 sé))
+    (S
+      (conj (cs que))
+      (grup.verb (vsif000 serán))
+      (sn
+        (spec (di0000 unas))
+        (grup.nom (nc0p000 vacaciones)
+          (S
+            (participi (aq0000 divertidas))
+            (sp
+              (prep (sp000 para))
+              (sn
+                (grup.nom (pi000000 todos))))))))
+    (fp .)))
+
